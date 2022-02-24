@@ -1,0 +1,15 @@
+
+
+# Настройки для СБОРОК и ДЕТАЛЕЙ
+model-rewrite = true			# Разрешить или запретить перезапись существующих файлов
+
+model-output = "%folder%/%filename%_%counter%.%extension%"		# Формат имени выходного файла
+model-extension	= "png"			# Расширение файла изображения
+
+
+# Настройки для ЧЕРТЕЖЕЙ
+drawing-rewrite = true			# Разрешить или запретить перезапись существующих файлов
+
+drawing-output = "%folder%/%filename%.%extension%"	# Формат имени выходного файла %folder%/%filename%_%sheetformat%.%extension%
+drawing-multisheet-output = "%folder%/%filename% Лист%sheetnumber% %sheetformat%.%extension%"	# Формат имени выходного файла для чертежей с несколькими листами
+drawing-extension = "pdf"		# Расширение файла изображения

@@ -1,0 +1,12 @@
+FILE_PATH;FILE_NAME;prop Обозначение;var d;var L;path Условное изображение резьбы1.Расстояние
+./;DIN 931 %var d%x%var L%x%path Условное изображение резьбы1.Расстояние% %prop Обозначение%.sldprt;Болт шестигр гол;6;30;%var B%;;
+%SAME%;%SAME%;%SAME%;6;40;%SAME%;
+%SAME%;%SAME%;%SAME%;6;45;%SAME%;;;
+%SAME%;%SAME%;%SAME%;6;50;%SAME%;;
+%SAME%;%SAME%;%SAME%;6;55;%SAME%
+%SAME%;%SAME%;%SAME%;6;60;%SAME%
+%SAME%;%SAME%;%SAME%;8;40;%SAME%
+%SAME%;%SAME%;%SAME%;8;45;%SAME%
+%SAME%;%SAME%;%SAME%;8;50;%SAME%
+%SAME%;%SAME%;%SAME%;8;55;%SAME%
+%SAME%;%SAME%;%SAME%;8;60;%SAME%
